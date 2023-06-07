@@ -30,8 +30,9 @@ const Technologies = () => (
           <ListTitle>Frond-end</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js,JavaScript, React, Next.js, Gatsby.js, AWS - Amplify,
-            Styled Components,Tailwind,Bootstrap,Materail UI,Wordpress,Redux
+            Html,css,scss,React.js,JavaScript, React, Next.js, Gatsby.js, AWS -
+            Amplify, Styled Components,Tailwind,Bootstrap,Materail
+            UI,Wordpress,Redux
           </ListParagraph>
         </ListContainer>
       </ListItem>
